@@ -1,0 +1,53 @@
+{
+  "title": "Jain communities",
+  "source": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Jain_communities",
+  "overview": "Overview of the social, religious, and demographic structure of the Jain community in India and abroad.",
+  "core_structure": {
+    "sangha": "Four-fold order (Chaturvidha Sangha)",
+    "components": [
+      "Muni (male monastics)",
+      "Aryika (female monastics)",
+      "Shravaka (laymen)",
+      "Shravika (laywomen)"
+    ]
+  },
+  "major_sects": [
+    {
+      "sect": "Digambara",
+      "meaning": "Sky-clad",
+      "key_features": "Male monks renounce clothing, prevalent in Southern & Central India, women must be reborn as men for moksha"
+    },
+    {
+      "sect": "Svetambara",
+      "meaning": "White-clad",
+      "key_features": "Monks and nuns wear white robes, large canon of scriptures, women can achieve moksha in this life, dominant in Western India"
+    }
+  ],
+  "sub_sects": {
+    "svetambara": ["Murtipujak (Deravasi)", "Sthanakvasi", "Terapanthi"],
+    "digambara": ["Bispanthi", "Terapanthi", "Taranpanthi (Samaiyapanthi)"]
+  },
+  "demographics": {
+    "population_india_2011": "4,451,753 (0.4% of India's population)",
+    "literacy_rate": "94.9% (highest in India)",
+    "wealth": "Wealthiest religious community in India (70% in highest wealth quintile)",
+    "major_states": ["Maharashtra", "Rajasthan", "Gujarat", "Madhya Pradesh", "Karnataka"]
+  },
+  "social_structure": {
+    "caste_system": "Jains follow regional Jāti (caste) system despite philosophical rejection of Varna",
+    "key_practices": "Strict endogamy (marriage within caste), caste panchayats, occupational traditions in trade and business"
+  },
+  "economic_ethical_links": [
+    "Ahimsa → Avoided farming and military professions",
+    "Aparigraha (non-attachment) → Strong tradition of philanthropy and temple patronage",
+    "Common professions": "Trade, banking, diamond industry, business"
+  ],
+  "diaspora": "Significant communities in USA, Europe, East Africa, Japan (over 5,000 families converted)",
+ 
+"SUMMARY": "The Jain community is a small but highly influential minority (0.4% of India) known for exceptional literacy, 
+wealth, and strong adherence to Ahimsa. It is organized into a four-fold sangha (monastics + laypeople) and divided mainly 
+into Digambara and Svetambara sects with further sub-sects. Social life revolves around regional castes (Jāti), while economic
+success stems from ethical principles that channeled them into trade and business. The community maintains a remarkable
+tradition of philanthropy, animal welfare, and temple building."
+}
