@@ -1,0 +1,84 @@
+{
+  "title": "6 Facts About Jains in India",
+  "source": "Pew Research Center",
+  "url": "https://www.pewresearch.org/short-reads/2021/08/17/6-facts-about-jains-in-india/",
+  "publication_date": "2021-08-17",
+  "overview": "Jainism is one of the world's oldest religions, originating in India. Jains make up only 0.4% of India's population but stand out in education, wealth, diet, and certain social attitudes.",
+  "population_share": "0.4%",
+  "key_facts": [
+    {
+      "fact_number": 1,
+      "title": "Geographic Concentration",
+      "description": "Jains are heavily concentrated in Western India, especially Maharashtra. 4% of Mumbai's population is Jain.",
+      "details": "Few Jains remain in Eastern India despite historical origins there. Migration to the West began around 300 B.C.E."
+    },
+    {
+      "fact_number": 2,
+      "title": "Education and Wealth",
+      "description": "Jains are significantly more educated and wealthier than the Indian average.",
+      "statistics": {
+        "college_degree": "34% of Jain adults (vs 9% general public)",
+        "caste": "Majority belong to General Category (higher caste). Only 20% in lower castes (SC/ST/OBC) vs 68% nationally."
+      }
+    },
+    {
+      "fact_number": 3,
+      "title": "Dietary Practices",
+      "description": "Strong adherence to ahimsa (non-violence) through vegetarianism.",
+      "statistics": {
+        "vegetarian": "92%",
+        "avoid_root_vegetables": "67%",
+        "strict_outside_home": {
+          "friend_non_veg_home": "84% would not eat",
+          "restaurant_non_veg": "91% would not eat"
+        }
+      }
+    },
+    {
+      "fact_number": 4,
+      "title": "Relationship with Hinduism",
+      "description": "Jains perceive strong commonality with Hindus, but the feeling is not strongly reciprocated.",
+      "statistics": {
+        "jains_see_commonality": "66%",
+        "hindus_see_commonality": "19%",
+        "believe_in_karma": {
+          "jains": "75%",
+          "hindus": "77%"
+        },
+        "knowledge_of_other_religion": {
+          "jains_know_hinduism_great_deal": "30%",
+          "hindus_know_jainism_great_deal": "3%"
+        }
+      }
+    },
+    {
+      "fact_number": 5,
+      "title": "Social Segregation Preferences",
+      "description": "Jains prefer living separately from other religious and caste groups.",
+      "statistics": {
+        "accept_hindu_neighbor": "92%",
+        "accept_muslim_neighbor": "38%",
+        "accept_christian_neighbor": "46%",
+        "oppose_religious_intermarriage": {
+          "women": "82%",
+          "men": "81%"
+        },
+        "close_friends_jain": "72%"
+      }
+    },
+    {
+      "fact_number": 6,
+      "title": "Political Leaning",
+      "description": "Strong preference for the Bharatiya Janata Party (BJP).",
+      "statistics": {
+        "feel_closest_to_bjp": "70%",
+        "feel_closest_to_congress": "8%",
+        "being_hindu_important_to_indian_identity": "44%",
+        "hindi_important_to_indian_identity": "54%"
+      }
+    }
+  ],
+  "methodology_summary": "Based on a national survey of 29,999 Indian adults (including 109 Jains) conducted Nov 2019 – March 2020. Data weighted to 2011 census.",
+  "tags": ["Jainism", "India", "Demographics", "Religion", "Pew Research", "Social Attitudes"],
+  "extraction_date": "2025-05-25"
+}
