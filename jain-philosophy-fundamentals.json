@@ -1,0 +1,71 @@
+{
+  "title": "Fundamentals of Jain Philosophy",
+  "source": "Jainworld",
+  "url": "https://jainworld.com/philosophy/fundamentals/",
+  "core_concept": "Nav Tattvas (Nine Fundamentals)",
+  "introduction": "Jain philosophy is best explained through the Nine Tattvas (fundamentals). These principles describe the nature of the soul, karma, and the path to liberation.",
+  "nav_tattvas": [
+    {
+      "number": 1,
+      "name": "Jiva",
+      "meaning": "Soul / Living Being",
+      "description": "Conscious entity with infinite knowledge and perception potential. The soul is eternal and indestructible but is currently obscured by karma."
+    },
+    {
+      "number": 2,
+      "name": "Ajiva",
+      "meaning": "Non-living Substance",
+      "description": "Everything without consciousness. Includes five types: Dharmastikaya (motion), Adharmastikaya (rest), Akashastikaya (space), Pudgalastikaya (matter), and Kala (time)."
+    },
+    {
+      "number": 3,
+      "name": "Punya",
+      "meaning": "Merit / Good Karma",
+      "description": "Results of wholesome actions (charity, helping others, religious activities) that bring happiness and comfort."
+    },
+    {
+      "number": 4,
+      "name": "Pap",
+      "meaning": "Demerit / Bad Karma",
+      "description": "Results of harmful actions (violence, anger, greed) that bring suffering and misery."
+    },
+    {
+      "number": 5,
+      "name": "Asrava",
+      "meaning": "Influx of Karma",
+      "description": "The inflow of karmic particles into the soul due to wrong belief, passions, negligence, or activities."
+    },
+    {
+      "number": 6,
+      "name": "Bandh",
+      "meaning": "Bondage of Karma",
+      "description": "The actual binding of karma particles to the soul caused by attachment and aversion."
+    },
+    {
+      "number": 7,
+      "name": "Samvar",
+      "meaning": "Stoppage of Karma",
+      "description": "Preventing new karma from entering the soul through carefulness, self-control, and right conduct."
+    },
+    {
+      "number": 8,
+      "name": "Nirjara",
+      "meaning": "Shedding of Karma",
+      "description": "The process of removing accumulated karma — either passively (Akam Nirjara) or actively through penance and meditation (Sakam Nirjara)."
+    },
+    {
+      "number": 9,
+      "name": "Moksha",
+      "meaning": "Liberation",
+      "description": "Complete freedom from all karma, leading to eternal bliss and infinite knowledge."
+    }
+  ],
+  "analogy": {
+    "story": "A family in a farmhouse during a dust storm",
+    "mapping": "The house represents the soul, dust represents karma, closing windows = Samvar, cleaning = Nirjara, clean house = Moksha."
+  },
+  "SUMMARY": "This article introduces the Nine Fundamentals (Nav Tattvas) of Jainism. These principles explain 
+the nature of the soul (Jiva), non-living matter (Ajiva), the mechanism of karma (Punya, Pap, Asrava, Bandh), and 
+the path to liberation through stopping new karma (Samvar), removing old karma (Nirjara), and ultimately attaining Moksha. 
+The page uses a simple farmhouse dust storm analogy to make these abstract concepts easy to understand."
+}
