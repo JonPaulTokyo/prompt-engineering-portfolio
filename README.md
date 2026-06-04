@@ -5,7 +5,7 @@
 This repository showcases my prompt engineering work focused on **Jain families, Jain communities, and related subjects**.
 
 ### What I Do
-I take articles, research papers, newsletters, and other content about **Jainism and Jain families** and break them down into clean, well-structured JSON files. 
+I take articles, research papers, newsletters, and other content about **Jainism and Jain families** and break them down into clean, well-structured JSON files. All links to the original source can be found in the JSON files.
 
 This makes complex information easier to understand, compare, search, and analyze.
 
