@@ -1,0 +1,75 @@
+{
+  "title": "JAINpedia Digital Gallery Schema",
+  "source": "JAINpedia Gallery",
+  "url": "https://jainpedia.org/gallery/",
+  "gallery_summary": {
+    "total_assets_scope": "Thousands of digitized folios, paintings, and historical artifacts spanning the 11th to 20th centuries.",
+    "primary_focus": "Illuminated manuscripts from the two main Jain sects (Digambara and Śvetāmbara), detailing cosmology, monastic rules, and the lives of the Tīrthaṅkaras.",
+    "visual_characteristics": {
+      "palette": ["Lapis lazuli blue", "Deep red/crimson", "Ochre yellow", "Gold leaf overlays"],
+      "compositional_elements": ["Three-quarter profiles", "Protruding eyes (characteristic of Western Indian style)", "Granular architectural framing"]
+    }
+  },
+  "collection_sources": [
+    {
+      "institution": "The British Library",
+      "holdings_type": "Extensive collections of the Kalpa-sūtra and Saṅgrahaṇī-sūtra manuscripts containing rich cosmic diagrams."
+    },
+    {
+      "institution": "Victoria and Albert Museum (V&A)",
+      "holdings_type": "Rich array of fabric paintings, structural temple hangings (Pata), and metal shrine sculptures."
+    },
+    {
+      "institution": "Bodleian Libraries",
+      "holdings_type": "Early palm-leaf works and rare texts featuring heavily decorated margins and stylized geometric shapes."
+    },
+    {
+      "institution": "Wellcome Collection",
+      "holdings_type": "Focus on medical, astrological, and palmistry texts mixed with traditional Jain concepts."
+    }
+  ],
+  "thematic_categories": [
+    {
+      "category": "Narrative and Biography",
+      "core_texts": ["Kalpa-sūtra", "Triṣaṣṭi-śalākā-puruṣa-caritra"],
+      "visual_subjects": [
+        "The 14 or 16 auspicious dreams of Queen Triśalā preceding Mahāvīra's birth.",
+        "Renunciation scenes (Kesa-loca) where kings pluck out their hair to become monks.",
+        "Attainment of omniscience (Kevala-jñāna) under sacred trees."
+      ]
+    },
+    {
+      "category": "Cosmology and Geography",
+      "core_texts": ["Saṅgrahaṇī-sūtra", "Samavasaraṇa diagrams"],
+      "visual_subjects": [
+        "Maps of the middle world (Madhyaloka) showing concentric rings of oceans and continents.",
+        "Detailed structures of the universe shaped like a cosmic giant (Lokapuruṣa).",
+        "The universal assembly hall (Samavasaraṇa) where a Jina sits to preach to all living beings."
+      ]
+    },
+    {
+      "category": "Ritual and Devotion",
+      "core_texts": ["Stotras / Hymns", "Bhaktāmara-stotra"],
+      "visual_subjects": [
+        "Yantras and Mandalas used for daily meditation and esoteric sound formulas.",
+        "Footprints (Pādukā) of liberated souls carved into stone mounts.",
+        "Laypersons performing the ritual anointment (Abhiṣeka) of monolithic statues."
+      ]
+    }
+  ],
+  "metadata_architecture": {
+    "object_id": "String (Unique system hash, e.g., 'BL-OR-2114A')",
+    "title": "String (Descriptive name of the folio or scene)",
+    "associated_text": "String (The primary scriptural text the image illustrates)",
+    "historical_period": "String (Estimated creation century or specific Samvat calendar date)",
+    "material_medium": "Enum ['Palm-leaf', 'Paper', 'Cloth', 'Bronze', 'Stone']",
+    "dimensions": {
+      "width_cm": "Float",
+      "height_cm": "Float"
+    },
+    "provenance": {
+      "scribe_monk_school": "String (Lineage or geographic origin if noted in colophon)",
+      "current_repository": "String (Current partner museum or library location)"
+    }
+  }
+}
