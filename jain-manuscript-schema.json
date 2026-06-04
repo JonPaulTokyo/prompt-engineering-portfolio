@@ -1,0 +1,84 @@
+{
+  "title": "How to Read a Jain Manuscript",
+  "source": "JAINpedia",
+  "url": "https://jainpedia.org/resources/how-to-read-a-jain-manuscript/",
+  "overview": {
+    "historical_context": " teachings of the Jinas were initially transmitted orally. They were committed to writing around the 5th century CE, though most surviving manuscripts date from the 11th century CE onward.",
+    "core_distinction": {
+      "text": "Relates to the conceptual contents of the work.",
+      "manuscript": "Relates to the physical object itself (a late manuscript can contain a very ancient text)."
+    }
+  },
+  "creation_and_materials": {
+    "languages": ["Ardhamāgadhī Prakrit", "Sanskrit"],
+    "scripts": {
+      "primary": "Devanāgarī",
+      "style_variant": "Jain Nāgarī (characterized by distinctive letter shapes unique to Jain scribes)",
+      "other_regional_scripts": ["Tamil", "Kannara"]
+    },
+    "reading_direction": "Left to right",
+    "mediums": ["Paper", "Palm leaf"],
+    "ink_sources": "Vegetable-based pigments"
+  },
+  "numbering_systems": {
+    "folio_structure": {
+      "definition": "Loose sheets with two sides: Recto (front / A side) and Verso (back / B side).",
+      "numbering_placement": "Generally located on the verso side."
+    },
+    "systems": [
+      {
+        "type": "Letters and Syllables (Letter-Numerals)",
+        "characteristic_medium": "Palm-leaf manuscripts (and exceptionally old 15th-century paper manuscripts).",
+        "placement": "Written in the left margin.",
+        "logic": "Distinct letters represent numbers 1-10, multiples of 10 (20, 30, etc.), and hundreds up to 400. Multi-digit numbers are stacked vertically."
+      },
+      {
+        "type": "Numerals / Figures",
+        "characteristic_medium": "Standard paper manuscripts.",
+        "placement": "Bottom of the right-hand margin.",
+        "logic": "Uses numeric digits, though some figures match the distinct 'Jain Nāgarī' styling."
+      }
+    ]
+  },
+  "layout_and_structural_elements": {
+    "beginning": {
+      "auspicious_sign": "Conventionally transcribed as 'Bhale' (exact historic meaning remains debated).",
+      "invocation_phrase": "Pays homage to a specific Jina or Hindu protective deities like Gaṇeśa or Sarasvatī. Formulas include 'Oṃ namo Vardhamānāya' or 'Oṃ namo Gaṇeśāya'."
+    },
+    "margins": {
+      "dimensions": "Average of 5 centimeters of empty space above, below, and to the sides.",
+      "framing": "Often marked out by two double vertical lines.",
+      "contents": ["Folio numbers", "Abridged work titles", "Ornamentation (e.g., red or orange circles)", "Image captions", "Reader glosses"]
+    },
+    "marginalia_commentary_styles": {
+      "tri_patha": "Three readings: The main text runs through the center, while large top and bottom margins host running commentaries in minute script.",
+      "panca_patha": "Five readings: Main text in the center, with commentaries filling all four margins. Readers follow a specific layout sequence: Top -> Right -> Left -> Bottom."
+    },
+    "text_body": {
+      "word_spacing": "Continuous script (Scriptio continua) without spaces between words. Later readers sometimes added small vertical strokes above letters as word-dividers.",
+      "punctuation": "Uses single or double vertical lines known as 'Daṇḍa' (stick) in black or red ink. Single daṇḍa indicates the end of a verse segment (pāda); double daṇḍa marks the end of a complete verse.",
+      "verse_numbering": "Stanza numbers are indicated at the end of the verse rather than the beginning.",
+      "chapter_ends": "Section titles/numbers are marked at the conclusion of a chapter, often highlighted using red or orange powder."
+    },
+    "central_space": {
+      "visuals": "A blank square, rectangle, or lozenge cutout in the direct center of the page. Can be empty, filled with red discs, or contain stylized geometric/artistic lettering.",
+      "historical_origin": "A structural carryover mimicking the central hole used in older palm-leaf manuscripts to thread a binding cord."
+    },
+    "paintings_and_illustrations": {
+      "dimensions": "Standardized size of roughly 10 x 8 centimeters, bound by rectangular lines.",
+      "placement": "Typically on the left or right of the text block.",
+      "captions": "Written in small script along the side margins, likely added by either the scribe or painter as cross-reference guidance."
+    }
+  },
+  "provenance_and_colophons": {
+    "colophon_definition": "A publication block located at the absolute end of the manuscript providing creation and lineage details.",
+    "metadata_tracked": {
+      "title": "Rarely at the beginning; usually follows the term 'iti' (meaning 'thus') at the end of a work or specific section.",
+      "author": "Stated at the end of text blocks. Monks are frequently accompanied by highly stylized praise formulas called 'Praśastis'.",
+      "scribe": "Indicated via the formula 'likhitam by X' (copied by X). Scribes were either professional copyists or Jain monks noting their lineage.",
+      "sponsors": "Mentions names and abbreviated social statuses of the patrons who commissioned the work.",
+      "owners_and_readers": "Reflects lineage of ownership, often written in multiple handwritings. Former names were occasionally erased using white or yellow pigments.",
+      "library_references": "Local classification markings typically written as 'manuscript number X, box number X', denoting the historical temple library storage chests."
+    }
+  }
+}
