@@ -1,0 +1,56 @@
+{
+  "title": "About JAINpedia",
+  "source": "JAINpedia",
+  "url": "https://jainpedia.org/about/",
+  "mission": {
+    "core_purpose": "To make the rich heritage of the Jain community accessible to a global audience by digitizing, contextualizing, and publicizing rare manuscript collections.",
+    "target_audience": ["Jain community", "Academic researchers", "General public"],
+    "key_objectives": [
+      "Preserve endangered cultural artifacts digitally.",
+      "Provide authoritative, peer-reviewed commentary on complex theological materials.",
+      "Foster cross-cultural education and religious literacy."
+    ]
+  },
+  "project_scope": {
+    "management_organization": "Institute of Jainology (IoJ)",
+    "major_partners": [
+      "The British Library",
+      "The Victoria and Albert Museum (V&A)",
+      "The Bodleian Libraries (University of Oxford)",
+      "The Wellcome Collection"
+    ],
+    "funding_and_support": {
+      "primary_funder": "Heritage Lottery Fund (HLF)",
+      "additional_support": "Private donations from the global Jain diaspora"
+    }
+  },
+  "digital_assets_and_features": {
+    "manuscript_digitization": {
+      "description": "High-resolution digital preservation of rare palm-leaf and paper manuscripts.",
+      "access_model": "Open-access public repository"
+    },
+    "educational_resources": [
+      "Expert-written articles exploring Jain philosophy, history, and art.",
+      "Interactive multi-media learning modules for schools.",
+      "Curated image galleries displaying intricate manuscript illustrations."
+    ]
+  },
+  "historical_milestones": [
+    {
+      "phase": "Inception",
+      "description": "The Institute of Jainology identifies the need to unite fragmented, highly restricted Jain manuscript collections hidden across major UK national institutions."
+    },
+    {
+      "phase": "Partnership Alignment",
+      "description": "Establishment of formal collaboration agreements with major national libraries and museums to unlock archival vaults for digitization."
+    },
+    {
+      "phase": "Launch & Expansion",
+      "description": "Public rollout of the JAINpedia web portal, backed by academic editorial boards to ensure historical and theological accuracy."
+    }
+  ],
+  "institutional_significance": {
+    "cultural_preservation": "Acts as a bridge between ancient monastic repositories and modern digital humanities.",
+    "educational_impact": "Integrates Jain history directly into mainstream theological and historical curricula through vetted digital modules."
+  }
+}
